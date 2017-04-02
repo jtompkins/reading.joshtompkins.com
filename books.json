@@ -1,0 +1,70 @@
+[
+  {
+    "title": "The Lion, the Witch, and the Wardrobe",
+    "author": "C. S. Lewis",
+    "year": 2017,
+    "link": "https://www.amazon.com/Lion-Witch-Wardrobe-Chronicles-Narnia/dp/0064404994/"
+  },
+
+  {
+    "title": "Leviathan Wakes",
+    "author": "James S. A. Corey",
+    "year": 2017,
+    "link": "https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089"
+  },
+
+  {
+    "title": "Finding God in the Waves",
+    "author": "Mike McHargue",
+    "year": 2017,
+    "link": "https://www.amazon.com/Finding-God-Waves-Through-Science-ebook/dp/B01A4B1QIY"
+  },
+
+  {
+    "title": "The Magicians",
+    "author": "Lev Grossman",
+    "year": 2017,
+    "link": "https://www.amazon.com/Magicians-Novel-Lev-Grossman-ebook/dp/B002AU7MJU"
+  },
+
+  {
+    "title": "Binti",
+    "author": "Nnedi Okorafor",
+    "year": 2017,
+    "link": "https://www.amazon.com/Binti-Nnedi-Okorafor-ebook/dp/B00Y7RWXHU"
+  },
+
+  {
+    "title": "Ruby Under a Microscope",
+    "author": "Pat Shaughnessy",
+    "year": 2017,
+    "link": "https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277"
+  },
+
+  {
+    "title": "The Yiddish Policeman's Union",
+    "author": "Michael Chabon",
+    "year": 2017,
+    "link": "https://www.amazon.com/Yiddish-Policemens-Union-Novel-P-S-ebook/dp/B006VE7JV2"
+  },
+
+  {
+    "title": "Castle of Wizardry",
+    "author": "David Eddings",
+    "year": 2017,
+    "link": "https://www.amazon.com/Castle-Wizardry-Belgariad-Book-4-ebook/dp/B01N813RV7"
+  },
+
+  {
+    "title": "Enchanter's Endgame",
+    "author": "David Eddings",
+    "year": 2017,
+    "link": "https://www.amazon.com/Enchanters-End-Game-Belgariad-Book-ebook/dp/B06XCTFYXP"
+  },
+
+  {
+    "title": "Exceptional Ruby",
+    "author": "Avdi Grimm",
+    "year": 2016
+  }
+]
