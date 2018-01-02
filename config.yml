@@ -1,9 +1,0 @@
-name: Joshua Tompkins
-email: josh@joshtompkins.com
-website: https://www.joshtompkins.com
-
-book_file: './books.json'
-
-output:
-  dir: '.'
-  theme: 'default'
