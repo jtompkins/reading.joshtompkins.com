@@ -69,13 +69,6 @@
   },
 
   {
-    "title": "The Thran",
-    "author": "J. Robert King",
-    "year": 2018,
-    "link": "https://www.amazon.com/dp/B07BNVL4RV"
-  },
-
-  {
     "title": "Ixalan: Collected Stories",
     "author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
     "year": 2018,
@@ -92,6 +85,13 @@
   },
 
   {
+    "title": "The Thran",
+    "author": "J. Robert King",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B07BNVL4RV"
+  },
+
+  {
     "title": "The Lamb Will Slaughter the Lion (Danielle Cain)",
     "author": "Margaret Killjoy",
     "year": 2018,
@@ -100,7 +100,7 @@
   },
 
   {
-    "title": "The Barrow Will Send What it May (Dannielle Cain)",
+    "title": "The Barrow Will Send What it May (Danielle Cain)",
     "author": "Margaret Killjoy",
     "year": 2018,
     "link":
@@ -112,6 +112,21 @@
     "author": "Martha Wells",
     "year": 2018,
     "link": "https://www.amazon.com/dp/B01MYZ8X5C/"
+  },
+
+  {
+    "title": "The Brothers' War (Artifacts Cycle, Book 1)",
+    "author": "Jeff Grubb",
+    "year": 2018,
+    "link":
+      "https://www.amazon.com/Brothers-War-Artifacts-Cycle-Book/dp/0786911700"
+  },
+
+  {
+    "title": "Dark Run (Keiko Book 1)",
+    "author": "Mike Brooks",
+    "year": 2018,
+    "link": "https://www.amazon.com/Dark-Run-Keiko-Book-1-ebook/dp/B01673Z43Q"
   },
 
   {
