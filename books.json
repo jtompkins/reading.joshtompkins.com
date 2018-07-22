@@ -193,6 +193,20 @@
   },
 
   {
+    "title": "Site Reliability Engineering: How Google Runs Production Systems",
+    "author": "Betsy Beyer, et al",
+    "year": 2018,
+    "link": "https://landing.google.com/sre/book.html"
+  },
+
+  {
+    "title": "Java 8 in Action",
+    "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
+    "year": 2018,
+    "link": "https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/"
+  },
+
+  {
     "title": "The Lion, the Witch, and the Wardrobe",
     "author": "C. S. Lewis",
     "year": 2017,
