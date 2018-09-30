@@ -1,526 +1,533 @@
 [
-	{
-		"title": "Null States (The Centenal Cycle)",
-		"author": "Malka Older",
-		"year": 2018,
-		"link": "https://www.amazon.com/Null-States-Book-Centenal-Cycle/dp/0765393387/"
-	},
-
-	{
-		"title": "Fire and Fury: Inside the Trump White House",
-		"author": "Michael Wolff",
-		"year": 2018,
-		"link": "https://www.amazon.com/Fire-Fury-Inside-Trump-White-ebook/dp/B077F4WZZY"
-	},
-
-	{
-		"title": "The Left Hand of Darkness",
-		"author": "Ursula K. Le Guin",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B00YBA7PGW/"
-	},
-
-	{
-		"title": "Winter Tide (The Innsmouth Legacy)",
-		"author": "Ruthanna Emrys",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B01F20E8OQ"
-	},
-
-	{
-		"title": "Kaladesh: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2018,
-		"link": "https://magic.wizards.com/en/content/kaladesh-story"
-	},
-
-	{
-		"title": "Aether Revolt: Collected Stories",
-		"author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
-		"year": 2018,
-		"link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
-	},
-
-	{
-		"title": "Cassandra: The Definitive Guide, 2nd Edition",
-		"author": "Jeff Carpenter & Eben Hewitt",
-		"year": 2018,
-		"link": "https://www.amazon.com/Cassandra-Definitive-Guide-Distributed-Scale/dp/1491933666/"
-	},
-
-	{
-		"title": "Amonkhet: Collected Stories",
-		"author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
-		"year": 2018,
-		"link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
-	},
-
-	{
-		"title": "Hour of Devastation: Collected Stories",
-		"author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
-		"year": 2018,
-		"link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
-	},
-
-	{
-		"title": "Ixalan: Collected Stories",
-		"author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
-		"year": 2018,
-		"link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
-	},
-
-	{
-		"title": "Rivals of Ixalan: Collected Stories",
-		"author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
-		"year": 2018,
-		"link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
-	},
-
-	{
-		"title": "The Thran",
-		"author": "J. Robert King",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B07BNVL4RV"
-	},
-
-	{
-		"title": "The Lamb Will Slaughter the Lion (Danielle Cain)",
-		"author": "Margaret Killjoy",
-		"year": 2018,
-		"link": "https://www.amazon.com/Lamb-Slaughter-Kindle-Single-Danielle-ebook/dp/B01N5EVUQF/"
-	},
-
-	{
-		"title": "The Barrow Will Send What it May (Danielle Cain)",
-		"author": "Margaret Killjoy",
-		"year": 2018,
-		"link": "https://www.amazon.com/Barrow-Will-Send-What-Danielle-ebook/dp/B0756KSZV1/"
-	},
-
-	{
-		"title": "All Systems Red (The Murderbot Diaries)",
-		"author": "Martha Wells",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B01MYZ8X5C/"
-	},
-
-	{
-		"title": "The Brothers' War (Artifacts Cycle, Book 1)",
-		"author": "Jeff Grubb",
-		"year": 2018,
-		"link": "https://www.amazon.com/Brothers-War-Artifacts-Cycle-Book/dp/0786911700"
-	},
-
-	{
-		"title": "Dark Run (Keiko Book 1)",
-		"author": "Mike Brooks",
-		"year": 2018,
-		"link": "https://www.amazon.com/Dark-Run-Keiko-Book-1-ebook/dp/B01673Z43Q"
-	},
-
-	{
-		"title": "Flash Boys: A Wall Street Revolution",
-		"author": "Michael Lewis",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B00HVJB4VM"
-	},
-
-	{
-		"title": "Soul of a New Machine",
-		"author": "Tracy Kidder",
-		"year": 2018,
-		"link": "http://www.powells.com/book/-9780316491976"
-	},
-
-	{
-		"title": "Every Heart a Doorway (Wayward Children)",
-		"author": "Seanan McGuire",
-		"year": 2018,
-		"link": "http://www.powells.com/book/-9780765385505"
-	},
-
-	{
-		"title": "The Red: First Light",
-		"author": "Linda Nagata",
-		"year": 2018,
-		"link": "http://www.powells.com/book/-9781481446570"
-	},
-
-	{
-		"title": "Black Star Renegades",
-		"author": "Michael Moreci",
-		"year": 2018,
-		"link": "https://www.amazon.com/Black-Star-Renegades-Michael-Moreci-ebook/dp/B072QWRZ29/"
-	},
-
-	{
-		"title": "Illidan: World of Warcraft",
-		"author": "William King",
-		"year": 2018,
-		"link": "https://www.amazon.com/Illidan-World-Warcraft-William-King-ebook/dp/B015LYSIXA/"
-	},
-
-	{
-		"title": "Before the Storm (World of Warcraft)",
-		"author": "Christie Golden",
-		"year": 2018,
-		"link": "https://www.amazon.com/Before-Storm-Warcraft-Christie-Golden-ebook/dp/B074YK7TVW/"
-	},
-
-	{
-		"title": "Autonomous",
-		"author": "Annalee Newitz",
-		"year": 2018,
-		"link": "https://www.amazon.com/Autonomous-Novel-Annalee-Newitz-ebook/dp/B01N4P14CI/"
-	},
-
-	{
-		"title": "Lock In: A Novel of the Near Future",
-		"author": "John Scalzi",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B00IHCBE1C/"
-	},
-
-	{
-		"title": "Site Reliability Engineering: How Google Runs Production Systems",
-		"author": "Betsy Beyer, et al",
-		"year": 2018,
-		"link": "https://landing.google.com/sre/book.html"
-	},
-
-	{
-		"title": "Java 8 in Action",
-		"author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
-		"year": 2018,
-		"link": "https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/"
-	},
-
-	{
-		"title": "Ninefox Gambit (Machineries of Empire Book 1)",
-		"author": "Yoon Ha Lee",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B01EBE05X2/"
-	},
-
-	{
-		"title": "Space Opera",
-		"author": "Catherynne M. Valente",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B074ZJQT6P/"
-	},
-
-	{
-		"title": "Unlocked: An Oral History of Haden's Syndrome",
-		"author": "John Scalzi",
-		"year": 2018,
-		"link": "https://www.amazon.com/Unlocked-History-Syndrome-Tor-Com-Original-ebook/dp/B00JCXK3PS/"
-	},
-
-	{
-		"title": "Trail of Lightning",
-		"author": "Rebecca Roanhorse",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B075RWTMLY/"
-	},
-
-	{
-		"title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-		"author": "John Carreyrou",
-		"year": 2018,
-		"link": "https://www.amazon.com/dp/B078VW3VM7/"
-	},
-
-	{
-		"title": "The Lion, the Witch, and the Wardrobe",
-		"author": "C. S. Lewis",
-		"year": 2017,
-		"link": "https://www.amazon.com/Lion-Witch-Wardrobe-Chronicles-Narnia/dp/0064404994/"
-	},
-
-	{
-		"title": "Leviathan Wakes",
-		"author": "James S. A. Corey",
-		"year": 2017,
-		"link": "https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089"
-	},
-
-	{
-		"title": "Finding God in the Waves",
-		"author": "Mike McHargue",
-		"year": 2017,
-		"link": "https://www.amazon.com/Finding-God-Waves-Through-Science-ebook/dp/B01A4B1QIY"
-	},
-
-	{
-		"title": "The Magicians",
-		"author": "Lev Grossman",
-		"year": 2017,
-		"link": "https://www.amazon.com/Magicians-Novel-Lev-Grossman-ebook/dp/B002AU7MJU"
-	},
-
-	{
-		"title": "Binti",
-		"author": "Nnedi Okorafor",
-		"year": 2017,
-		"link": "https://www.amazon.com/Binti-Nnedi-Okorafor-ebook/dp/B00Y7RWXHU"
-	},
-
-	{
-		"title": "Ruby Under a Microscope",
-		"author": "Pat Shaughnessy",
-		"year": 2017,
-		"link": "https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277"
-	},
-
-	{
-		"title": "The Yiddish Policeman's Union",
-		"author": "Michael Chabon",
-		"year": 2017,
-		"link": "https://www.amazon.com/Yiddish-Policemens-Union-Novel-P-S-ebook/dp/B006VE7JV2"
-	},
-
-	{
-		"title": "Castle of Wizardry",
-		"author": "David Eddings",
-		"year": 2017,
-		"link": "https://www.amazon.com/Castle-Wizardry-Belgariad-Book-4-ebook/dp/B01N813RV7"
-	},
-
-	{
-		"title": "Enchanter's Endgame",
-		"author": "David Eddings",
-		"year": 2017,
-		"link": "https://www.amazon.com/Enchanters-End-Game-Belgariad-Book-ebook/dp/B06XCTFYXP"
-	},
-
-	{
-		"title": "American Gods",
-		"author": "Neil Gaiman",
-		"year": 2017,
-		"link": "https://www.amazon.com/American-Gods-Tenth-Anniversary-Novel-ebook/dp/B004YW4L5K"
-	},
-
-	{
-		"title": "Moneyball: The Art of Winning an Unfair Game",
-		"author": "Michael Lewis",
-		"year": 2017,
-		"link": "https://www.amazon.com/dp/B000RH0C8G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
-	},
-
-	{
-		"title": "Packing for Mars: The Curious Science of Life in the Void",
-		"author": "Mary Roach",
-		"year": 2017,
-		"link": "https://www.amazon.com/dp/B003YJEXUM"
-	},
-
-	{
-		"title": "Dragons of Autumn Twilight",
-		"author": "Margaret Weis & Tracy Hickman",
-		"year": 2017,
-		"link": "https://www.amazon.com/Dragons-Autumn-Twilight-Dragonlance-Chronicles/dp/0786915749"
-	},
-
-	{
-		"title": "Magic Origins: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/articles/archive/feature/magic-fiction-ebook-collection-2015-09-23"
-	},
-
-	{
-		"title": "Prelude to Battle for Zendikar: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/articles/archive/feature/magic-fiction-ebook-collection-2015-09-23"
-	},
-
-	{
-		"title": "Battle for Zendikar: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/articles/archive/magic-story/battle-zendikar-story-summary-2015-12-23"
-	},
-
-	{
-		"title": "Oath of the Gatewatch: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-story-summary-2016-03-02"
-	},
-
-	{
-		"title": "Conspiracy - Take the Crown: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/content/conspiracy-take-crown-story"
-	},
-
-	{
-		"title": "Shadows Over Innistrad: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/articles/archive/magic-story/magic-story-shadows-over-innistrad-e-book-collection-2016-06-01"
-	},
-
-	{
-		"title": "Eldritch Moon: Collected Stories",
-		"author": "Kimberly J. Kreines, editor",
-		"year": 2017,
-		"link": "http://magic.wizards.com/en/content/eldritch-moon-story"
-	},
-
-	{
-		"title": "The Ballad of Black Tom",
-		"author": "Victor LaValle",
-		"year": 2017,
-		"link": "https://www.amazon.com/dp/B0166PX1Z8"
-	},
-
-	{
-		"title": "The Litany of Earth",
-		"author": "Ruthanna Emrys",
-		"year": 2017,
-		"link": "http://www.tor.com/2014/05/14/the-litany-of-earth-ruthanna-emrys/"
-	},
-
-	{
-		"title": "Killing Gravity (The Voidwitch Saga)",
-		"author": "Corey J. White",
-		"year": 2017,
-		"link": "https://www.amazon.com/dp/B01MYM808E/"
-	},
-
-	{
-		"title": "You Don't Know JS: Up & Going",
-		"author": "Kyle Simpson",
-		"year": 2017,
-		"link": "https://www.amazon.com/gp/product/B00V20DQU8/"
-	},
-
-	{
-		"title": "You Don't Know JS: Scope & Closures",
-		"author": "Kyle Simpson",
-		"year": 2017,
-		"link": "https://www.amazon.com/gp/product/B00IV3J2A2/"
-	},
-
-	{
-		"title": "You Don't Know JS: this & Object Prototypes",
-		"author": "Kyle Simpson",
-		"year": 2017,
-		"link": "https://www.amazon.com/gp/product/B00LPUIB9G/"
-	},
-
-	{
-		"title": "The Three-Body Problem (Remembrance of Earth's Past)",
-		"author": "Cixin Liu",
-		"year": 2017,
-		"link": "https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past-ebook/dp/B00IQO403K/"
-	},
-
-	{
-		"title": "Infomocracy (The Centenal Cycle)",
-		"author": "Malka Older",
-		"year": 2017,
-		"link": "https://www.amazon.com/dp/B0151U75ME/"
-	},
-
-	{
-		"title": "The Collapsing Empire",
-		"author": "John Scalzi",
-		"year": 2017,
-		"link": "https://www.amazon.com/Collapsing-Empire-John-Scalzi-ebook/dp/B01F20E7CO"
-	},
-
-	{
-		"title": "A Wizard of Earthsea",
-		"author": "Ursula K. Le Guin",
-		"year": 2017,
-		"link": "https://www.amazon.com/Wizard-Earthsea-Cycle/dp/0547773749"
-	},
-
-	{
-		"title": "The Long Way to a Small, Angry Planet",
-		"author": "Becky Chambers",
-		"year": 2017,
-		"link": "https://www.amazon.com/Long-Small-Angry-Planet-Wayfarers/dp/0062444131"
-	},
-
-	{
-		"title": "Too Like the Lightning (Terra Ignota)",
-		"author": "Ada Palmer",
-		"year": 2017,
-		"link": "https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019"
-	},
-
-	{
-		"title": "Strange Weather: Four Short Novels",
-		"author": "Joe Hill",
-		"year": 2017,
-		"link": "https://www.amazon.com/Strange-Weather-Four-Short-Novels/dp/0062663119"
-	},
-
-	{
-		"title": "Eloquent Ruby",
-		"author": "Russ Olsen",
-		"year": 2016,
-		"link": "https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/"
-	},
-
-	{
-		"title": "Confident Ruby",
-		"author": "Avdi Grimm",
-		"year": 2016,
-		"link": "http://www.confidentruby.com/"
-	},
-
-	{
-		"title": "Exceptional Ruby",
-		"author": "Avdi Grimm",
-		"year": 2016,
-		"link": "http://exceptionalruby.com/"
-	},
-
-	{
-		"title": "Spiderlight",
-		"author": "Adrian Tchaikovsky",
-		"year": 2016,
-		"link": "https://www.amazon.com/Spiderlight-Adrian-Tchaikovsky-ebook/dp/B01ARRSVM4/"
-	},
-
-	{
-		"title": "Effective Java",
-		"author": "Joshua Bloch",
-		"year": 2016,
-		"link": "https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/"
-	},
-
-	{
-		"title": "So You Want to Be a Wizard",
-		"author": "Diane Duane",
-		"year": 2016,
-		"link": "https://www.amazon.com/dp/B003WJQ7G2/"
-	},
-
-	{
-		"title": "Pawn of Prophecy",
-		"author": "David Eddings",
-		"year": 2016,
-		"link": "https://www.amazon.com/Pawn-Prophecy-Book-1-Belgariad-ebook/dp/B01LFS3Y8A/"
-	},
-
-	{
-		"title": "Queen of Sorcery",
-		"author": "David Eddings",
-		"year": 2016,
-		"link": "https://www.amazon.com/Queen-Sorcery-Belgariad-Book-2-ebook/dp/B01N3TTM3A/"
-	},
-
-	{
-		"title": "Magician's Gambit",
-		"author": "David Eddings",
-		"year": 2016,
-		"link": "https://www.amazon.com/Magicians-Gambit-Book-3-Belgariad-ebook/dp/B01N1MK5B8/"
-	}
+  {
+    "title": "Null States (The Centenal Cycle)",
+    "author": "Malka Older",
+    "year": 2018,
+    "link": "https://www.amazon.com/Null-States-Book-Centenal-Cycle/dp/0765393387/"
+  },
+
+  {
+    "title": "Fire and Fury: Inside the Trump White House",
+    "author": "Michael Wolff",
+    "year": 2018,
+    "link": "https://www.amazon.com/Fire-Fury-Inside-Trump-White-ebook/dp/B077F4WZZY"
+  },
+
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B00YBA7PGW/"
+  },
+
+  {
+    "title": "Winter Tide (The Innsmouth Legacy)",
+    "author": "Ruthanna Emrys",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B01F20E8OQ"
+  },
+
+  {
+    "title": "Kaladesh: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2018,
+    "link": "https://magic.wizards.com/en/content/kaladesh-story"
+  },
+
+  {
+    "title": "Aether Revolt: Collected Stories",
+    "author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
+    "year": 2018,
+    "link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
+  },
+
+  {
+    "title": "Cassandra: The Definitive Guide, 2nd Edition",
+    "author": "Jeff Carpenter & Eben Hewitt",
+    "year": 2018,
+    "link": "https://www.amazon.com/Cassandra-Definitive-Guide-Distributed-Scale/dp/1491933666/"
+  },
+
+  {
+    "title": "Amonkhet: Collected Stories",
+    "author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
+    "year": 2018,
+    "link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
+  },
+
+  {
+    "title": "Hour of Devastation: Collected Stories",
+    "author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
+    "year": 2018,
+    "link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
+  },
+
+  {
+    "title": "Ixalan: Collected Stories",
+    "author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
+    "year": 2018,
+    "link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
+  },
+
+  {
+    "title": "Rivals of Ixalan: Collected Stories",
+    "author": "Kimberly J. Kreines, editor; compiled by S'Tsung",
+    "year": 2018,
+    "link": "http://stsu.blogspot.cz/2018/01/magic-gathering-collected-stories.html"
+  },
+
+  {
+    "title": "The Thran",
+    "author": "J. Robert King",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B07BNVL4RV"
+  },
+
+  {
+    "title": "The Lamb Will Slaughter the Lion (Danielle Cain)",
+    "author": "Margaret Killjoy",
+    "year": 2018,
+    "link": "https://www.amazon.com/Lamb-Slaughter-Kindle-Single-Danielle-ebook/dp/B01N5EVUQF/"
+  },
+
+  {
+    "title": "The Barrow Will Send What it May (Danielle Cain)",
+    "author": "Margaret Killjoy",
+    "year": 2018,
+    "link": "https://www.amazon.com/Barrow-Will-Send-What-Danielle-ebook/dp/B0756KSZV1/"
+  },
+
+  {
+    "title": "All Systems Red (The Murderbot Diaries)",
+    "author": "Martha Wells",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B01MYZ8X5C/"
+  },
+
+  {
+    "title": "The Brothers' War (Artifacts Cycle, Book 1)",
+    "author": "Jeff Grubb",
+    "year": 2018,
+    "link": "https://www.amazon.com/Brothers-War-Artifacts-Cycle-Book/dp/0786911700"
+  },
+
+  {
+    "title": "Dark Run (Keiko Book 1)",
+    "author": "Mike Brooks",
+    "year": 2018,
+    "link": "https://www.amazon.com/Dark-Run-Keiko-Book-1-ebook/dp/B01673Z43Q"
+  },
+
+  {
+    "title": "Flash Boys: A Wall Street Revolution",
+    "author": "Michael Lewis",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B00HVJB4VM"
+  },
+
+  {
+    "title": "Soul of a New Machine",
+    "author": "Tracy Kidder",
+    "year": 2018,
+    "link": "http://www.powells.com/book/-9780316491976"
+  },
+
+  {
+    "title": "Every Heart a Doorway (Wayward Children)",
+    "author": "Seanan McGuire",
+    "year": 2018,
+    "link": "http://www.powells.com/book/-9780765385505"
+  },
+
+  {
+    "title": "The Red: First Light",
+    "author": "Linda Nagata",
+    "year": 2018,
+    "link": "http://www.powells.com/book/-9781481446570"
+  },
+
+  {
+    "title": "Black Star Renegades",
+    "author": "Michael Moreci",
+    "year": 2018,
+    "link": "https://www.amazon.com/Black-Star-Renegades-Michael-Moreci-ebook/dp/B072QWRZ29/"
+  },
+
+  {
+    "title": "Illidan: World of Warcraft",
+    "author": "William King",
+    "year": 2018,
+    "link": "https://www.amazon.com/Illidan-World-Warcraft-William-King-ebook/dp/B015LYSIXA/"
+  },
+
+  {
+    "title": "Before the Storm (World of Warcraft)",
+    "author": "Christie Golden",
+    "year": 2018,
+    "link": "https://www.amazon.com/Before-Storm-Warcraft-Christie-Golden-ebook/dp/B074YK7TVW/"
+  },
+
+  {
+    "title": "Autonomous",
+    "author": "Annalee Newitz",
+    "year": 2018,
+    "link": "https://www.amazon.com/Autonomous-Novel-Annalee-Newitz-ebook/dp/B01N4P14CI/"
+  },
+
+  {
+    "title": "Lock In: A Novel of the Near Future",
+    "author": "John Scalzi",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B00IHCBE1C/"
+  },
+
+  {
+    "title": "Site Reliability Engineering: How Google Runs Production Systems",
+    "author": "Betsy Beyer, et al",
+    "year": 2018,
+    "link": "https://landing.google.com/sre/book.html"
+  },
+
+  {
+    "title": "Java 8 in Action",
+    "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
+    "year": 2018,
+    "link": "https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/"
+  },
+
+  {
+    "title": "Ninefox Gambit (Machineries of Empire Book 1)",
+    "author": "Yoon Ha Lee",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B01EBE05X2/"
+  },
+
+  {
+    "title": "Space Opera",
+    "author": "Catherynne M. Valente",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B074ZJQT6P/"
+  },
+
+  {
+    "title": "Unlocked: An Oral History of Haden's Syndrome",
+    "author": "John Scalzi",
+    "year": 2018,
+    "link": "https://www.amazon.com/Unlocked-History-Syndrome-Tor-Com-Original-ebook/dp/B00JCXK3PS/"
+  },
+
+  {
+    "title": "Trail of Lightning",
+    "author": "Rebecca Roanhorse",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B075RWTMLY/"
+  },
+
+  {
+    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "author": "John Carreyrou",
+    "year": 2018,
+    "link": "https://www.amazon.com/dp/B078VW3VM7/"
+  },
+
+  {
+    "title": "American Hunger",
+    "author": "Eli Saslow",
+    "year": 2018,
+    "link": "https://www.amazon.com/American-Hunger-Pulitzer-Prize-Winning-Washington-ebook/dp/B00LRIXKS8/"
+  },
+
+  {
+    "title": "The Lion, the Witch, and the Wardrobe",
+    "author": "C. S. Lewis",
+    "year": 2017,
+    "link": "https://www.amazon.com/Lion-Witch-Wardrobe-Chronicles-Narnia/dp/0064404994/"
+  },
+
+  {
+    "title": "Leviathan Wakes",
+    "author": "James S. A. Corey",
+    "year": 2017,
+    "link": "https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089"
+  },
+
+  {
+    "title": "Finding God in the Waves",
+    "author": "Mike McHargue",
+    "year": 2017,
+    "link": "https://www.amazon.com/Finding-God-Waves-Through-Science-ebook/dp/B01A4B1QIY"
+  },
+
+  {
+    "title": "The Magicians",
+    "author": "Lev Grossman",
+    "year": 2017,
+    "link": "https://www.amazon.com/Magicians-Novel-Lev-Grossman-ebook/dp/B002AU7MJU"
+  },
+
+  {
+    "title": "Binti",
+    "author": "Nnedi Okorafor",
+    "year": 2017,
+    "link": "https://www.amazon.com/Binti-Nnedi-Okorafor-ebook/dp/B00Y7RWXHU"
+  },
+
+  {
+    "title": "Ruby Under a Microscope",
+    "author": "Pat Shaughnessy",
+    "year": 2017,
+    "link": "https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277"
+  },
+
+  {
+    "title": "The Yiddish Policeman's Union",
+    "author": "Michael Chabon",
+    "year": 2017,
+    "link": "https://www.amazon.com/Yiddish-Policemens-Union-Novel-P-S-ebook/dp/B006VE7JV2"
+  },
+
+  {
+    "title": "Castle of Wizardry",
+    "author": "David Eddings",
+    "year": 2017,
+    "link": "https://www.amazon.com/Castle-Wizardry-Belgariad-Book-4-ebook/dp/B01N813RV7"
+  },
+
+  {
+    "title": "Enchanter's Endgame",
+    "author": "David Eddings",
+    "year": 2017,
+    "link": "https://www.amazon.com/Enchanters-End-Game-Belgariad-Book-ebook/dp/B06XCTFYXP"
+  },
+
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "year": 2017,
+    "link": "https://www.amazon.com/American-Gods-Tenth-Anniversary-Novel-ebook/dp/B004YW4L5K"
+  },
+
+  {
+    "title": "Moneyball: The Art of Winning an Unfair Game",
+    "author": "Michael Lewis",
+    "year": 2017,
+    "link": "https://www.amazon.com/dp/B000RH0C8G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+  },
+
+  {
+    "title": "Packing for Mars: The Curious Science of Life in the Void",
+    "author": "Mary Roach",
+    "year": 2017,
+    "link": "https://www.amazon.com/dp/B003YJEXUM"
+  },
+
+  {
+    "title": "Dragons of Autumn Twilight",
+    "author": "Margaret Weis & Tracy Hickman",
+    "year": 2017,
+    "link": "https://www.amazon.com/Dragons-Autumn-Twilight-Dragonlance-Chronicles/dp/0786915749"
+  },
+
+  {
+    "title": "Magic Origins: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/articles/archive/feature/magic-fiction-ebook-collection-2015-09-23"
+  },
+
+  {
+    "title": "Prelude to Battle for Zendikar: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/articles/archive/feature/magic-fiction-ebook-collection-2015-09-23"
+  },
+
+  {
+    "title": "Battle for Zendikar: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/articles/archive/magic-story/battle-zendikar-story-summary-2015-12-23"
+  },
+
+  {
+    "title": "Oath of the Gatewatch: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-story-summary-2016-03-02"
+  },
+
+  {
+    "title": "Conspiracy - Take the Crown: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/content/conspiracy-take-crown-story"
+  },
+
+  {
+    "title": "Shadows Over Innistrad: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/articles/archive/magic-story/magic-story-shadows-over-innistrad-e-book-collection-2016-06-01"
+  },
+
+  {
+    "title": "Eldritch Moon: Collected Stories",
+    "author": "Kimberly J. Kreines, editor",
+    "year": 2017,
+    "link": "http://magic.wizards.com/en/content/eldritch-moon-story"
+  },
+
+  {
+    "title": "The Ballad of Black Tom",
+    "author": "Victor LaValle",
+    "year": 2017,
+    "link": "https://www.amazon.com/dp/B0166PX1Z8"
+  },
+
+  {
+    "title": "The Litany of Earth",
+    "author": "Ruthanna Emrys",
+    "year": 2017,
+    "link": "http://www.tor.com/2014/05/14/the-litany-of-earth-ruthanna-emrys/"
+  },
+
+  {
+    "title": "Killing Gravity (The Voidwitch Saga)",
+    "author": "Corey J. White",
+    "year": 2017,
+    "link": "https://www.amazon.com/dp/B01MYM808E/"
+  },
+
+  {
+    "title": "You Don't Know JS: Up & Going",
+    "author": "Kyle Simpson",
+    "year": 2017,
+    "link": "https://www.amazon.com/gp/product/B00V20DQU8/"
+  },
+
+  {
+    "title": "You Don't Know JS: Scope & Closures",
+    "author": "Kyle Simpson",
+    "year": 2017,
+    "link": "https://www.amazon.com/gp/product/B00IV3J2A2/"
+  },
+
+  {
+    "title": "You Don't Know JS: this & Object Prototypes",
+    "author": "Kyle Simpson",
+    "year": 2017,
+    "link": "https://www.amazon.com/gp/product/B00LPUIB9G/"
+  },
+
+  {
+    "title": "The Three-Body Problem (Remembrance of Earth's Past)",
+    "author": "Cixin Liu",
+    "year": 2017,
+    "link": "https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past-ebook/dp/B00IQO403K/"
+  },
+
+  {
+    "title": "Infomocracy (The Centenal Cycle)",
+    "author": "Malka Older",
+    "year": 2017,
+    "link": "https://www.amazon.com/dp/B0151U75ME/"
+  },
+
+  {
+    "title": "The Collapsing Empire",
+    "author": "John Scalzi",
+    "year": 2017,
+    "link": "https://www.amazon.com/Collapsing-Empire-John-Scalzi-ebook/dp/B01F20E7CO"
+  },
+
+  {
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "year": 2017,
+    "link": "https://www.amazon.com/Wizard-Earthsea-Cycle/dp/0547773749"
+  },
+
+  {
+    "title": "The Long Way to a Small, Angry Planet",
+    "author": "Becky Chambers",
+    "year": 2017,
+    "link": "https://www.amazon.com/Long-Small-Angry-Planet-Wayfarers/dp/0062444131"
+  },
+
+  {
+    "title": "Too Like the Lightning (Terra Ignota)",
+    "author": "Ada Palmer",
+    "year": 2017,
+    "link": "https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019"
+  },
+
+  {
+    "title": "Strange Weather: Four Short Novels",
+    "author": "Joe Hill",
+    "year": 2017,
+    "link": "https://www.amazon.com/Strange-Weather-Four-Short-Novels/dp/0062663119"
+  },
+
+  {
+    "title": "Eloquent Ruby",
+    "author": "Russ Olsen",
+    "year": 2016,
+    "link": "https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/"
+  },
+
+  {
+    "title": "Confident Ruby",
+    "author": "Avdi Grimm",
+    "year": 2016,
+    "link": "http://www.confidentruby.com/"
+  },
+
+  {
+    "title": "Exceptional Ruby",
+    "author": "Avdi Grimm",
+    "year": 2016,
+    "link": "http://exceptionalruby.com/"
+  },
+
+  {
+    "title": "Spiderlight",
+    "author": "Adrian Tchaikovsky",
+    "year": 2016,
+    "link": "https://www.amazon.com/Spiderlight-Adrian-Tchaikovsky-ebook/dp/B01ARRSVM4/"
+  },
+
+  {
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "year": 2016,
+    "link": "https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/"
+  },
+
+  {
+    "title": "So You Want to Be a Wizard",
+    "author": "Diane Duane",
+    "year": 2016,
+    "link": "https://www.amazon.com/dp/B003WJQ7G2/"
+  },
+
+  {
+    "title": "Pawn of Prophecy",
+    "author": "David Eddings",
+    "year": 2016,
+    "link": "https://www.amazon.com/Pawn-Prophecy-Book-1-Belgariad-ebook/dp/B01LFS3Y8A/"
+  },
+
+  {
+    "title": "Queen of Sorcery",
+    "author": "David Eddings",
+    "year": 2016,
+    "link": "https://www.amazon.com/Queen-Sorcery-Belgariad-Book-2-ebook/dp/B01N3TTM3A/"
+  },
+
+  {
+    "title": "Magician's Gambit",
+    "author": "David Eddings",
+    "year": 2016,
+    "link": "https://www.amazon.com/Magicians-Gambit-Book-3-Belgariad-ebook/dp/B01N1MK5B8/"
+  }
 ]
