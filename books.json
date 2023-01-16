@@ -349,21 +349,24 @@
       "title": "The Fellowship of the Ring",
       "author": "J. R. R. Tolkien",
       "year": 2020,
-      "link": "https://www.overdrive.com/media/238941/the-fellowship-of-the-ring"
+      "link": "https://www.overdrive.com/media/238941/the-fellowship-of-the-ring",
+      "recommended": true
     },
 
     {
       "title": "The Two Towers",
       "author": "J. R. R. Tolkien",
       "year": 2020,
-      "link": "https://www.overdrive.com/media/238945/the-two-towers"
+      "link": "https://www.overdrive.com/media/238945/the-two-towers",
+      "recommended": true
     },
 
     {
       "title": "The Return of the King",
       "author": "J. R. R. Tolkien",
       "year": 2020,
-      "link": "https://www.overdrive.com/media/238944/the-return-of-the-king"
+      "link": "https://www.overdrive.com/media/238944/the-return-of-the-king",
+      "recommended": true
     },
 
     {
@@ -536,7 +539,8 @@
       "title": "Sex Criminals - Volume 1",
       "author": "Matt Fraction, Chip Zdarsky",
       "year": 2019,
-      "link": "https://www.comixology.com/Sex-Criminals-Vol-1/digital-comic/92759"
+      "link": "https://www.comixology.com/Sex-Criminals-Vol-1/digital-comic/92759",
+      "recommended": true
     },
 
     {
@@ -642,13 +646,6 @@
       "author": "Patrick Lencioni",
       "year": 2019,
       "link": "https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756"
-    },
-
-    {
-      "title": "War of the Spark: Ravnica",
-      "author": "Greg Weisman",
-      "year": 2019,
-      "link": "https://www.amazon.com/Ravnica-Magic-Gathering-War-Spark/dp/1984817450"
     },
 
     {
@@ -872,7 +869,8 @@
       "title": "Trail of Lightning",
       "author": "Rebecca Roanhorse",
       "year": 2018,
-      "link": "https://www.amazon.com/dp/B075RWTMLY/"
+      "link": "https://www.amazon.com/dp/B075RWTMLY/",
+      "recommended": true
     },
 
     {
@@ -1040,7 +1038,8 @@
       "title": "Moneyball: The Art of Winning an Unfair Game",
       "author": "Michael Lewis",
       "year": 2017,
-      "link": "https://www.amazon.com/dp/B000RH0C8G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+      "link": "https://www.amazon.com/dp/B000RH0C8G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+      "recommended": true
     },
 
     {
@@ -1159,28 +1158,32 @@
       "title": "Infomocracy (The Centenal Cycle)",
       "author": "Malka Older",
       "year": 2017,
-      "link": "https://www.amazon.com/dp/B0151U75ME/"
+      "link": "https://www.amazon.com/dp/B0151U75ME/",
+      "recommended": true
     },
 
     {
       "title": "The Collapsing Empire",
       "author": "John Scalzi",
       "year": 2017,
-      "link": "https://www.amazon.com/Collapsing-Empire-John-Scalzi-ebook/dp/B01F20E7CO"
+      "link": "https://www.amazon.com/Collapsing-Empire-John-Scalzi-ebook/dp/B01F20E7CO",
+      "recommended": true
     },
 
     {
       "title": "A Wizard of Earthsea",
       "author": "Ursula K. Le Guin",
       "year": 2017,
-      "link": "https://www.amazon.com/Wizard-Earthsea-Cycle/dp/0547773749"
+      "link": "https://www.amazon.com/Wizard-Earthsea-Cycle/dp/0547773749",
+      "recommended": true
     },
 
     {
       "title": "The Long Way to a Small, Angry Planet",
       "author": "Becky Chambers",
       "year": 2017,
-      "link": "https://www.amazon.com/Long-Small-Angry-Planet-Wayfarers/dp/0062444131"
+      "link": "https://www.amazon.com/Long-Small-Angry-Planet-Wayfarers/dp/0062444131",
+      "recommended": true
     },
 
     {
@@ -1257,7 +1260,8 @@
       "title": "Magician's Gambit",
       "author": "David Eddings",
       "year": 2016,
-      "link": "https://www.amazon.com/Magicians-Gambit-Book-3-Belgariad-ebook/dp/B01N1MK5B8/"
+      "link": "https://www.amazon.com/Magicians-Gambit-Book-3-Belgariad-ebook/dp/B01N1MK5B8/",
+      "recommended": true
     }
   ]
 }
