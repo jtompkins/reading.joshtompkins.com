@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "yarn reading-list -b ./books.json -o ./"
+    "build": "npx reading-list -b ./books.json -o ./"
   },
   "dependencies": {
     "readinglist-js": "^2.0.0-alpha.2"
