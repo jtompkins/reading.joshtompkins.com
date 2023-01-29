@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "npx reading-list -b ./books.json -o ./"
+    "build": "npx reading-list -b ./books.json -o ./build",
+    "deploy": "aws s3 sync ./build s3://reading.joshtompkins.com"
   },
   "dependencies": {
     "readinglist-js": "^2.0.0-alpha.2"
