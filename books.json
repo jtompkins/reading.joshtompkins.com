@@ -7,17 +7,17 @@
   },
   "books": [
     {
-      "title": "SPQR: A History of Ancient Rome",
-      "author": "Mary Beard",
-      "current": true,
-      "link": "https://www.overdrive.com/media/2393213/spqr"
-    },
-
-    {
       "title": "The Brothers' War (Artifacts Cycle, Book 1)",
       "author": "J. Robert King",
       "current": true,
       "link": "https://www.overdrive.com/media/3912821/the-brothers-warhttps://www.amazon.com/dp/B07BNVL4RV"
+    },
+    
+    {
+      "title": "SPQR: A History of Ancient Rome",
+      "author": "Mary Beard",
+      "current": true,
+      "link": "https://www.overdrive.com/media/2393213/spqr"
     },
 
     {
