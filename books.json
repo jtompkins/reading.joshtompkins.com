@@ -14,10 +14,49 @@
     },
 
     {
+      "title": "The Brothers' War (Artifacts Cycle, Book 1)",
+      "author": "J. Robert King",
+      "current": true,
+      "link": "https://www.overdrive.com/media/3912821/the-brothers-warhttps://www.amazon.com/dp/B07BNVL4RV"
+    },
+
+    {
+      "title": "The Thran",
+      "author": "J. Robert King",
+      "year": 2023,
+      "link": "https://www.amazon.com/dp/B07BNVL4RV"
+    },
+
+    {
       "title": "When We Cease to Understand the World",
       "author": "Banjamin Labatut",
-      "current": true,
+      "year": 2023,
+      "finished": false,
       "link": "https://www.overdrive.com/media/5979378/when-we-cease-to-understand-the-world"
+    },
+
+    {
+      "title": "Fifth Sun: A New History of the Aztecs",
+      "author": "Camilla Townsend",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/5027460/fifth-sun",
+      "finished": false
+    },
+
+    {
+      "title": "The City We Became",
+      "author": "N. K. Jeminsin",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/5131516/the-city-we-became-a-novel",
+      "recommended": true
+    },
+
+    {
+      "title": "Several People Are Typing",
+      "author": "Calvin Kasulke",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/5965057/several-people-are-typing",
+      "recommended": true
     },
 
     {
@@ -233,30 +272,6 @@
       "year": 2022,
       "link": "https://www.overdrive.com/media/2855986/the-evangelicals",
       "finished": false
-    },
-
-    {
-      "title": "Fifth Sun: A New History of the Aztecs",
-      "author": "Camilla Townsend",
-      "year": 2023,
-      "link": "https://www.overdrive.com/media/5027460/fifth-sun",
-      "finished": false
-    },
-
-    {
-      "title": "The City We Became",
-      "author": "N. K. Jeminsin",
-      "year": 2023,
-      "link": "https://www.overdrive.com/media/5131516/the-city-we-became-a-novel",
-      "recommended": true
-    },
-
-    {
-      "title": "Several People Are Typing",
-      "author": "Calvin Kasulke",
-      "year": 2023,
-      "link": "https://www.overdrive.com/media/5965057/several-people-are-typing",
-      "recommended": true
     },
 
     {
