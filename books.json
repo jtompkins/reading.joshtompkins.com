@@ -12,7 +12,7 @@
       "current": true,
       "link": "https://www.overdrive.com/media/3912761/planeswalker"
     },
-    
+
     {
       "title": "Fifth Sun: A New History of the Aztecs",
       "author": "Camilla Townsend",
@@ -20,7 +20,7 @@
       "link": "https://www.overdrive.com/media/5027460/fifth-sun",
       "finished": false
     },
-    
+
     {
       "title": "A Desolation Called Peace",
       "author": "Arkady Martine",
@@ -44,40 +44,55 @@
       "link": "https://www.overdrive.com/media/5965057/several-people-are-typing",
       "recommended": true
     },
-    
-    {
-      "title": "Magic (2021) - Volume 1",
-      "author": "Jed MacKay, Ig Guara, & Boom Comics",
-      "year": 2023,
-      "link": "https://www.amazon.com/Magic-Vol-1-Jed-MacKay/dp/1684157358/"
-    },
-    
+
     {
       "title": "The Thran",
       "author": "J. Robert King",
       "year": 2023,
       "link": "https://www.amazon.com/dp/B07BNVL4RV"
     },
-    
+
     {
       "title": "The Brothers' War (Artifacts Cycle, Book 1)",
       "author": "J. Robert King",
       "year": 2023,
       "link": "https://www.overdrive.com/media/3912821/the-brothers-warhttps://www.amazon.com/dp/B07BNVL4RV"
     },
-      
+
+    {
+      "title": "Magic (2021) - Volume 1",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-1-Jed-MacKay/dp/1684157358/"
+    },
+
     {
       "title": "Magic (2021) - Volume 2",
       "author": "Jed MacKay, Ig Guara, & Boom Comics",
       "year": 2023,
       "link": "https://www.amazon.com/Magic-Vol-Jed-MacKay/dp/1684158141/"
     },
-    
+
     {
       "title": "Magic (2021) - Volume 3",
       "author": "Jed MacKay, Ig Guara, & Boom Comics",
       "year": 2023,
       "link": "https://www.amazon.com/Magic-Vol-3/dp/1684158613/"
+    },
+
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/5525262/the-midnight-library"
+    },
+
+    {
+      "title": "The Evangelicals",
+      "author": "Frances Fitzgerald",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/2855986/the-evangelicals",
+      "finished": false
     },
 
     {
@@ -127,7 +142,8 @@
       "title": "The Dark City",
       "author": "Chris Wraight",
       "year": 2022,
-      "link": "https://www.overdrive.com/media/9086612/the-dark-city"
+      "link": "https://www.overdrive.com/media/9086612/the-dark-city",
+      "recommended": false
     },
 
     {
@@ -136,6 +152,42 @@
       "year": 2022,
       "link": "https://www.overdrive.com/media/6195777/the-kaiju-preservation-society",
       "recommended": true
+    },
+
+    {
+      "title": "Kaiju No. 8, Volume 1",
+      "author": "Naoya Matsumoto",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/7904919/kaiju-no-8-volume-1",
+      "recommended": true
+    },
+
+    {
+      "title": "Kaiju No. 8, Volume 2",
+      "author": "Naoya Matsumoto",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/8862779/kaiju-no-8-volume-2"
+    },
+
+    {
+      "title": "Kaiju No. 8, Volume 3",
+      "author": "Naoya Matsumoto",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/9073505/kaiju-no-8-volume-3"
+    },
+
+    {
+      "title": "Kaiju No. 8, Volume 4",
+      "author": "Naoya Matsumoto",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/9250202/kaiju-no-8-volume-4"
+    },
+
+    {
+      "title": "Kaiju No. 8, Volume 5",
+      "author": "Naoya Matsumoto",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/9501318/kaiju-no-8-volume-5"
     },
 
     {
@@ -281,18 +333,67 @@
     },
 
     {
-      "title": "The Midnight Library",
-      "author": "Matt Haig",
+      "title": "BL Metamorphosis, Volume 1",
+      "author": "Kaori Tsurutani",
       "year": 2022,
-      "link": "https://www.overdrive.com/media/5525262/the-midnight-library"
+      "link": "https://www.overdrive.com/media/9536056/bl-metamorphosis-volume-1",
+      "recommended": true
     },
 
     {
-      "title": "The Evangelicals",
-      "author": "Frances Fitzgerald",
+      "title": "BL Metamorphosis, Volume 2",
+      "author": "Kaori Tsurutani",
       "year": 2022,
-      "link": "https://www.overdrive.com/media/2855986/the-evangelicals",
-      "finished": false
+      "link": "https://www.overdrive.com/media/9536057/bl-metamorphosis-volume-2"
+    },
+
+    {
+      "title": "BL Metamorphosis, Volume 3",
+      "author": "Kaori Tsurutani",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/9536058/bl-metamorphosis-volume-3"
+    },
+
+    {
+      "title": "BL Metamorphosis, Volume 4",
+      "author": "Kaori Tsurutani",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/9536059/bl-metamorphosis-volume-4"
+    },
+
+    {
+      "title": "BL Metamorphosis, Volume 5",
+      "author": "Kaori Tsurutani",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/9536060/bl-metamorphosis-volume-5"
+    },
+
+    {
+      "title": "Citrus, Volume 1",
+      "author": "Saburouta",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/4770958/citrus-volume-1"
+    },
+
+    {
+      "title": "Citrus, Volume 2",
+      "author": "Saburouta",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/4770960/citrus-volume-2"
+    },
+
+    {
+      "title": "Citrus, Volume 3",
+      "author": "Saburouta",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/4770961/citrus-volume-3"
+    },
+
+    {
+      "title": "Citrus, Volume 4",
+      "author": "Saburouta",
+      "year": 2022,
+      "link": "https://www.overdrive.com/media/4770962/citrus-volume-4"
     },
 
     {
