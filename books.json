@@ -7,16 +7,45 @@
   },
   "books": [
     {
+      "title": "Planeswalker (Artifacts Cycle, Book 2)",
+      "author": "Lynn Abbey",
+      "current": true,
+      "link": "https://www.overdrive.com/media/3912761/planeswalker"
+    },
+    
+    {
+      "title": "Magic (2021) - Volume 1",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-1-Jed-MacKay/dp/1684157358/"
+    },
+      
+    {
+      "title": "Magic (2021) - Volume 2",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-Jed-MacKay/dp/1684158141/"
+    },
+    
+    {
+      "title": "Magic (2021) - Volume 3",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-3/dp/1684158613/"
+    },
+    
+    {
       "title": "SPQR: A History of Ancient Rome",
       "author": "Mary Beard",
-      "current": true,
+      "year": 2023,
+      "finished": false,
       "link": "https://www.overdrive.com/media/2393213/spqr"
     },
     
     {
       "title": "The Brothers' War (Artifacts Cycle, Book 1)",
       "author": "J. Robert King",
-      "current": true,
+      "year": 2023,
       "link": "https://www.overdrive.com/media/3912821/the-brothers-warhttps://www.amazon.com/dp/B07BNVL4RV"
     },
 
