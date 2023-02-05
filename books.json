@@ -14,62 +14,19 @@
     },
     
     {
-      "title": "Magic (2021) - Volume 1",
-      "author": "Jed MacKay, Ig Guara, & Boom Comics",
-      "year": 2023,
-      "link": "https://www.amazon.com/Magic-Vol-1-Jed-MacKay/dp/1684157358/"
-    },
-      
-    {
-      "title": "Magic (2021) - Volume 2",
-      "author": "Jed MacKay, Ig Guara, & Boom Comics",
-      "year": 2023,
-      "link": "https://www.amazon.com/Magic-Vol-Jed-MacKay/dp/1684158141/"
-    },
-    
-    {
-      "title": "Magic (2021) - Volume 3",
-      "author": "Jed MacKay, Ig Guara, & Boom Comics",
-      "year": 2023,
-      "link": "https://www.amazon.com/Magic-Vol-3/dp/1684158613/"
-    },
-    
-    {
-      "title": "SPQR: A History of Ancient Rome",
-      "author": "Mary Beard",
-      "year": 2023,
-      "finished": false,
-      "link": "https://www.overdrive.com/media/2393213/spqr"
-    },
-    
-    {
-      "title": "The Brothers' War (Artifacts Cycle, Book 1)",
-      "author": "J. Robert King",
-      "year": 2023,
-      "link": "https://www.overdrive.com/media/3912821/the-brothers-warhttps://www.amazon.com/dp/B07BNVL4RV"
-    },
-
-    {
-      "title": "The Thran",
-      "author": "J. Robert King",
-      "year": 2023,
-      "link": "https://www.amazon.com/dp/B07BNVL4RV"
-    },
-
-    {
-      "title": "When We Cease to Understand the World",
-      "author": "Banjamin Labatut",
-      "year": 2023,
-      "finished": false,
-      "link": "https://www.overdrive.com/media/5979378/when-we-cease-to-understand-the-world"
-    },
-
-    {
       "title": "Fifth Sun: A New History of the Aztecs",
       "author": "Camilla Townsend",
       "year": 2023,
       "link": "https://www.overdrive.com/media/5027460/fifth-sun",
       "finished": false
+    },
+    
+    {
+      "title": "A Desolation Called Peace",
+      "author": "Arkady Martine",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/5723900/a-desolation-called-peace",
+      "recommended": true
     },
 
     {
@@ -86,6 +43,41 @@
       "year": 2023,
       "link": "https://www.overdrive.com/media/5965057/several-people-are-typing",
       "recommended": true
+    },
+    
+    {
+      "title": "Magic (2021) - Volume 1",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-1-Jed-MacKay/dp/1684157358/"
+    },
+    
+    {
+      "title": "The Thran",
+      "author": "J. Robert King",
+      "year": 2023,
+      "link": "https://www.amazon.com/dp/B07BNVL4RV"
+    },
+    
+    {
+      "title": "The Brothers' War (Artifacts Cycle, Book 1)",
+      "author": "J. Robert King",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/3912821/the-brothers-warhttps://www.amazon.com/dp/B07BNVL4RV"
+    },
+      
+    {
+      "title": "Magic (2021) - Volume 2",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-Jed-MacKay/dp/1684158141/"
+    },
+    
+    {
+      "title": "Magic (2021) - Volume 3",
+      "author": "Jed MacKay, Ig Guara, & Boom Comics",
+      "year": 2023,
+      "link": "https://www.amazon.com/Magic-Vol-3/dp/1684158613/"
     },
 
     {
