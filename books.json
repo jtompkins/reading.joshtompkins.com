@@ -12,30 +12,30 @@
       "current": true,
       "link": "https://www.overdrive.com/media/204235/storm-front"
     },
-    
+
     {
       "title": "Decision at Thunder Rift (Saga of the Gray Death Legion, Book 1)",
       "author": "William H. Keith, Jr.",
       "year": 2023,
       "link": "https://www.sarna.net/wiki/Decision_at_Thunder_Rift",
-      "finished": false
+      "current": true
     },
-    
+
     {
-      "title": "Warhammer 40,000: The Gate of Bones (Dawn of Fire, Book 2)",
-      "author": "Andy Clark",
+      "title": "Even Though I Knew the End",
+      "author": "C. L. Polk",
       "year": 2023,
-      "link": "https://www.overdrive.com/media/6394375/the-gate-of-bones",
-      "finished": false
+      "link": "https://www.overdrive.com/media/8223825/even-though-i-knew-the-end",
+      "recommended": true
     },
-    
+
     {
       "title": "Warhammer 40,000: Avenging Son (Dawn of Fire, Book 1)",
       "author": "Guy Haley",
       "year": 2023,
       "link": "https://www.overdrive.com/media/6394295/avenging-son"
     },
-    
+
     {
       "title": "Planeswalker (Artifacts Cycle, Book 2)",
       "author": "Lynn Abbey",
