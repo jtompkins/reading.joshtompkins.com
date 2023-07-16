@@ -3,7 +3,12 @@
     "name": "Josh Tompkins",
     "email": "josh@joshtompkins.com",
     "website": "https://www.joshtompkins.com",
-    "theme": "default"
+    "theme": "default",
+    "feed": {
+      "title": "reading.joshtompkins.com",
+      "url": "http://reading.joshtompkins.com/feed.json",
+      "avatarUrl": "http://reading.joshtompkins.com/avatar.png"
+    }
   },
   "books": [
     {

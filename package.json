@@ -4,6 +4,6 @@
     "deploy": "aws s3 sync ./build s3://reading.joshtompkins.com"
   },
   "dependencies": {
-    "readinglist-js": "^2.0.0-alpha.3"
+    "readinglist-js": "^2.0.0-alpha.4"
   }
 }
