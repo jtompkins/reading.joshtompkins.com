@@ -12,17 +12,18 @@
   },
   "books": [
     {
-      "title": "Storm Front (The Dresden Files, Book 1)",
-      "author": "Jim Butcher",
+      "title": "Mexican Gothic",
+      "author": "Silvia Moreno-Garcia",
       "current": true,
-      "link": "https://www.overdrive.com/media/204235/storm-front"
+      "link": "https://www.overdrive.com/media/5043222/mexican-gothic"
     },
 
     {
-      "title": "Decision at Thunder Rift (Saga of the Gray Death Legion, Book 1)",
-      "author": "William H. Keith, Jr.",
-      "link": "https://www.sarna.net/wiki/Decision_at_Thunder_Rift",
-      "current": true
+      "title": "All the Birds in the Sky",
+      "author": "Charlie Jane Anders",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/2185260/all-the-birds-in-the-sky",
+      "recommended": true
     },
 
     {
