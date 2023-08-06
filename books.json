@@ -12,10 +12,18 @@
   },
   "books": [
     {
-      "title": "Mexican Gothic",
-      "author": "Silvia Moreno-Garcia",
+      "title": "Bloom into You",
+      "author": "Nakatani Nio",
       "current": true,
-      "link": "https://www.overdrive.com/media/5043222/mexican-gothic"
+      "link": "https://www.overdrive.com/series/bloom-into-you"
+    },
+
+    {
+      "title": "Kaiju No. 8, Volumes 6-10",
+      "author": "Naoya Matsumoto",
+      "year": 2023,
+      "link": "https://www.overdrive.com/series/kaiju-no-8",
+      "recommended": true
     },
 
     {
