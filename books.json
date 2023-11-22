@@ -12,10 +12,17 @@
   },
   "books": [
     {
-      "title": "Bloom into You",
-      "author": "Nakatani Nio",
+      "title": "Certain Dark Things",
+      "author": "Silvia Moreno-Garcia",
       "current": true,
-      "link": "https://www.overdrive.com/series/bloom-into-you"
+      "link": "https://www.overdrive.com/media/5950062/certain-dark-things"
+    },
+
+    {
+      "title": "Homeland",
+      "author": "R. A. Salvatore",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/252661/homeland"
     },
 
     {
