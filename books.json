@@ -12,10 +12,33 @@
   },
   "books": [
     {
+      "title": "An Introduction to Statistical Learning",
+      "author": "Gareth James, et al.",
+      "current": true,
+      "link": "https://www.statlearning.com"
+    },
+
+    {
+      "title": "The Haunting of Tram Car 015",
+      "author": "P. Djèlí Clark",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/4565988/the-haunting-of-tram-car-015",
+      "recommended": true
+    },
+
+    {
+      "title": "A Dead Djinn in Cairo",
+      "author": "P. Djèlí Clark",
+      "year": 2023,
+      "link": "https://www.amazon.com/Dead-Djinn-Cairo-Tor-Com-Original-ebook/dp/B01DJ0NALI"
+    },
+
+    {
       "title": "Certain Dark Things",
       "author": "Silvia Moreno-Garcia",
-      "current": true,
-      "link": "https://www.overdrive.com/media/5950062/certain-dark-things"
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/5950062/certain-dark-things",
+      "recommended": true
     },
 
     {
