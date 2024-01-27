@@ -31,7 +31,7 @@ jobs:
         uses: webfactory/ssh-agent@v0.8.0
         with:
           ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-      - name: Copy files to the production website with the AWS CLI
+      - name: Copy files to the production website
         env:
           DEPLOY_USER: github
         run: npm run deploy --if-present

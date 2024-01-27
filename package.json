@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "npx reading-list -b ./books.json -o ./build",
-    "deploy": "rsync -r ./build/ ${DEPLOY_USER:-joshcodes}@167.172.132.122:/var/www/reading.joshtompkins.codes/html"
+    "deploy": "rsync -r ./build/ github@167.172.132.122:/var/www/reading.joshtompkins.codes/html"
   },
   "dependencies": {
     "readinglist-js": "^2.0.0-alpha.5"
