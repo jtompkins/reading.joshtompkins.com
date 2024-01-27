@@ -12,6 +12,13 @@
   },
   "books": [
     {
+      "title": "Starter Villain",
+      "author": "John Scalzi",
+      "current": true,
+      "link": "https://www.overdrive.com/media/9174861/starter-villain"
+    },
+
+    {
       "title": "An Introduction to Statistical Learning",
       "author": "Gareth James, et al.",
       "current": true,
