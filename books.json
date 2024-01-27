@@ -1,13 +1,13 @@
 {
   "meta": {
     "name": "Josh Tompkins",
-    "email": "josh@joshtompkins.com",
-    "website": "https://www.joshtompkins.com",
+    "email": "me@joshtompkins.codes",
+    "website": "https://reading.joshtompkins.codes",
     "theme": "default",
     "feed": {
-      "title": "reading.joshtompkins.com",
-      "url": "http://reading.joshtompkins.com/feed.json",
-      "avatarUrl": "http://reading.joshtompkins.com/avatar.png"
+      "title": "reading.joshtompkins.codes",
+      "url": "http://reading.joshtompkins.codes/feed.json",
+      "avatarUrl": "http://reading.joshtompkins.codes/avatar.png"
     }
   },
   "books": [
