@@ -28,10 +28,11 @@ jobs:
           npm ci
           npm run build --if-present
       - name: Install SSH key
-        uses: webfactory/ssh-agent@v0.8.0
+        uses: shimataro/ssh-key-action@v2
         with:
-          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+          key: ${{ secrets.DEPLOY_KEY }}
+          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+      - name: Adding Known Hosts
+        run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
       - name: Copy files to the production website
-        env:
-          DEPLOY_USER: github
-        run: npm run deploy --if-present
+        run: rsync -r ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/reading.joshtompkins.codes/html
