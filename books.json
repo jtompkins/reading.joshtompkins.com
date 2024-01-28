@@ -12,18 +12,20 @@
   },
   "books": [
     {
-      "title": "Starter Villain",
-      "author": "John Scalzi",
-      "current": true,
-      "link": "https://www.overdrive.com/media/9174861/starter-villain"
-    },
-
-    {
       "title": "An Introduction to Statistical Learning",
       "author": "Gareth James, et al.",
       "current": true,
       "link": "https://www.statlearning.com"
     },
+        
+    {
+      "title": "Starter Villain",
+      "author": "John Scalzi",
+      "year": 2023,
+      "link": "https://www.overdrive.com/media/9174861/starter-villain",
+      "recommended": true
+    },
+
 
     {
       "title": "The Haunting of Tram Car 015",
