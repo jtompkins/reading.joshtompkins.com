@@ -10,20 +10,22 @@
       "avatarUrl": "http://reading.joshtompkins.codes/avatar.png"
     }
   },
-  "books": [
-    {
-      "title": "Hell is a World Without You",
-      "author": "Jason Kirk",
-      "current": true,
-      "link": "https://payhip.com/b/noPgb"
-    },
-    
+  "books": [    
     {
       "title": "Babel",
       "author": "R. F. Kuang",
       "current": true,
       "link": "https://www.overdrive.com/media/7873322/babel"
     },
+    
+    {
+      "title": "Hell is a World Without You",
+      "author": "Jason Kirk",
+      "year": 2024,
+      "link": "https://payhip.com/b/noPgb",
+      "recommended": true
+    },
+
         
     {
       "title": "Starter Villain",
