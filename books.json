@@ -10,14 +10,164 @@
       "avatarUrl": "http://reading.joshtompkins.codes/avatar.png"
     }
   },
-  "books": [    
+  "books": [
     {
-      "title": "Babel",
-      "author": "R. F. Kuang",
+      "title": "Co-Intelligence",
+      "author": "Ethan Mollick",
       "current": true,
-      "link": "https://www.overdrive.com/media/7873322/babel"
+      "link": "https://www.overdrive.com/media/10265685/co-intelligence"
     },
-    
+
+    {
+      "title": "The Collapsing Empire",
+      "author": "John Scalzi",
+      "year": 2025,
+      "link": "https://www.amazon.com/Collapsing-Empire-John-Scalzi-ebook/dp/B01F20E7CO",
+      "recommended": true
+    },
+
+    {
+      "title": "The Kaiju Preservation Society",
+      "author": "John Scalzi",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/6195777/the-kaiju-preservation-society",
+      "recommended": true
+    },
+
+    {
+      "title": "For the Emperor",
+      "author": "Sandy Mitchell",
+      "year": 2025,
+      "link": "https://www.blacklibrary.com/warhammer-40000/novels/ciaphis-cain-hero-of-the-imperium-ebook-2019.html",
+      "recommended": true
+    },
+
+    {
+      "title": "Ghostmaker",
+      "author": "Dan Abnett",
+      "year": 2025,
+      "link": "https://www.blacklibrary.com/series/gaunts-ghosts/Ghostmaker-eBook.html",
+      "recommended": true
+    },
+
+    {
+      "title": "First and Only",
+      "author": "Dan Abnett",
+      "year": 2025,
+      "link": "https://www.blacklibrary.com/series/gaunts-ghosts/gg-the-founding-ebook.html"
+    },
+
+    {
+      "title": "Rivers of London",
+      "author": "Ben Aaronovitch",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/9428003/rivers-of-london",
+      "recommended": true
+    },
+
+    {
+      "title": "Artificial Condition (The Murderbot Diaries, book 4)",
+      "author": "Martha Wells",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/3469914/artificial-condition",
+      "recommended": true
+    },
+
+    {
+      "title": "Rogue Protocol (The Murderbot Diaries, book 3)",
+      "author": "Martha Wells",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/3462640/rogue-protocol",
+      "recommended": true
+    },
+
+    {
+      "title": "Exit Strategy (The Murderbot Diaries, book 2)",
+      "author": "Martha Wells",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/3750075/exit-strategy",
+      "recommended": true
+    },
+
+    {
+      "title": "All Systems Red (The Murderbot Diaries, book 1)",
+      "author": "Martha Wells",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/3845098/all-systems-red",
+      "recommended": true
+    },
+
+    {
+      "title": "Ancillary Justice",
+      "author": "Ann Leckie",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/1223507/"
+    },
+
+    {
+      "title": "The Poppy War",
+      "author": "R. F. Kuang",
+      "year": 2025,
+      "link": "https://share.libbyapp.com/title/3402347"
+    },
+
+    {
+      "title": "Pawn of Prophecy",
+      "author": "David Eddings",
+      "year": 2025,
+      "link": "https://www.amazon.com/Pawn-Prophecy-Book-1-Belgariad-ebook/dp/B01LFS3Y8A/"
+    },
+
+    {
+      "title": "Queen of Sorcery",
+      "author": "David Eddings",
+      "year": 2025,
+      "link": "https://www.amazon.com/Queen-Sorcery-Belgariad-Book-2-ebook/dp/B01N3TTM3A/"
+    },
+
+    {
+      "title": "Magician's Gambit",
+      "author": "David Eddings",
+      "year": 2025,
+      "link": "https://www.amazon.com/Magicians-Gambit-Book-3-Belgariad-ebook/dp/B01N1MK5B8/"
+    },
+
+    {
+      "title": "Castle of Wizardry",
+      "author": "David Eddings",
+      "year": 2025,
+      "link": "https://www.amazon.com/Castle-Wizardry-Belgariad-Book-4-ebook/dp/B01N813RV7"
+    },
+
+    {
+      "title": "Enchanter's Endgame",
+      "author": "David Eddings",
+      "year": 2025,
+      "link": "https://www.amazon.com/Enchanters-End-Game-Belgariad-Book-ebook/dp/B06XCTFYXP"
+    },
+
+    {
+      "title": "Europe in Autumn",
+      "author": "Dave Hutchinson",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/1549240/europe-in-autumn"
+    },
+
+    {
+      "title": "Battle of the Linguist Mages",
+      "author": "Scotto Moore",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/6196481/battle-of-the-linguist-mages",
+      "recommended": true
+    },
+
+    {
+      "title": "Sucker",
+      "author": "Daniel Hornsby",
+      "year": 2025,
+      "link": "https://www.overdrive.com/media/9016698/sucker"
+    },
+
     {
       "title": "Hell is a World Without You",
       "author": "Jason Kirk",
@@ -26,7 +176,6 @@
       "recommended": true
     },
 
-        
     {
       "title": "Starter Villain",
       "author": "John Scalzi",
@@ -34,7 +183,6 @@
       "link": "https://www.overdrive.com/media/9174861/starter-villain",
       "recommended": true
     },
-
 
     {
       "title": "The Haunting of Tram Car 015",
